@@ -5,15 +5,15 @@ Here is a simple example of a collision of two bodies consisting of particles of
 
 **Velocity**
 <p align="center">
-    <img src="https://github.com/KaiFabi/VanillaTreeSPH/results/sph_vel.gif" height="500">
+    <img src="https://github.com/KaiFabi/VanillaTreeSPH/blob/master/results/sph_vel.gif" height="500">
 </p>
 
 **Pressure**
 <p align="center">
-    <img src="https://github.com/KaiFabi/VanillaTreeSPH/results/sph_pressure.gif" height="500">
+    <img src="https://github.com/KaiFabi/VanillaTreeSPH/blob/master/results/sph_pressure.gif" height="500">
 </p>
 
 **Density**
 <p align="center">
-    <img src="https://github.com/KaiFabi/VanillaTreeSPH/results/sph_rho.gif" height="500">
+    <img src="https://github.com/KaiFabi/VanillaTreeSPH/blob/master/results/sph_rho.gif" height="500">
 </p>
