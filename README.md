@@ -23,3 +23,8 @@ Here the color of the particles corresponds to the object they belong to. In the
 <p align="center">
     <img src="https://github.com/KaiFabi/VanillaTreeSPH/blob/master/results/sph_rho.gif" height="500">
 </p>
+
+
+Compile and run the program using
+
+`gcc -O -Wall sph.c -o sph -lm && ./sph`
